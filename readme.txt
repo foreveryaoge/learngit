@@ -4,3 +4,4 @@ Git is free software distributed under the GPL
 GIt has a mutable index called stage
 Git tracks changes
 Git tracks changes of files.
+create a new branch is quick
